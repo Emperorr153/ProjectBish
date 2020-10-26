@@ -40,7 +40,7 @@ youtube-dl
 pytz
 qrcode
 requests
-git+https://github.com/bisoncorps/search-engine-parser.git
+search-engine-parser
 speedtest-cli
 sqlalchemy
 telethon
